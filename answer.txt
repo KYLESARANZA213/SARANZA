@@ -1,0 +1,11 @@
+The options help configure Git's environtment and tools for easier use.
+"This refers to configuration options in Git (e.g., git config) that let users customize Git’s behavior and tools."
+
+Programmers use the command line because it's faster and offers more control than a GUI.
+"This explains why many developers prefer using the command line for Git and other tools."
+
+it prints out the current directory path (for example , /c/User/SARANZA).
+"This describes what the pwd (print working directory) command does in the terminal."
+
+The file is a README.md file (Markdown format), and it contains a short description of the repository.
+"This explains the purpose of a README.md file in a Git repository."
