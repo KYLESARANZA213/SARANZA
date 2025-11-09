@@ -1,5 +1,3 @@
-
-
 maze = [
     "#########",
     "#P     G#",
@@ -41,3 +39,6 @@ while True:
         maze[player_row] = maze[player_row][:player_col] + ' ' + maze[player_row][player_col+1:]
         maze[new_row] = maze[new_row][:new_col] + 'P' + maze[new_row][new_col+1:]
         player_row, player_col = new_row, new_col
+
+        print("Welcome to <SARANZA>'s Maze")
+
